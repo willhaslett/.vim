@@ -7,9 +7,6 @@
 [submodule "pack/plugs/start/vim-javascript"]
 	path = pack/plugs/start/vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
-[submodule "pack/plugs/start/jedi-vim"]
-	path = pack/plugs/start/jedi-vim
-	url = git@github.com:davidhalter/jedi-vim.git
 [submodule "pack/plugs/start/vim-autoformat"]
 	path = pack/plugs/start/vim-autoformat
 	url = https://github.com/Chiel92/vim-autoformat.git
